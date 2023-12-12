@@ -5,8 +5,7 @@ from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.floatlayout import FloatLayout
 from kivy.core.audio import SoundLoader
-import time
-import schedule
+
 
 
 class soggy_clicker(App):
